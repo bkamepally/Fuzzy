@@ -1,0 +1,300 @@
+{
+  "generatedAt": "2026-10-23T20:13:52.107525+00:00",
+  "requestedDate": "2026-10-23",
+  "source": "FlightStats public flight pages",
+  "flights": [
+    {
+      "number": "F9 3283",
+      "date": "2026-10-23",
+      "segments": [
+        {
+          "id": 1415740670,
+          "departure": {
+            "iata": "DFW",
+            "city": "Dallas",
+            "name": "Dallas Fort Worth International Airport",
+            "gate": null,
+            "terminal": "E",
+            "baggage": null,
+            "times": {
+              "scheduled": {
+                "time": "10:11",
+                "ampm": "PM",
+                "time24": "22:11",
+                "timezone": "CDT"
+              },
+              "estimatedActual": {
+                "title": "Estimated",
+                "time": "10:11",
+                "ampm": "PM",
+                "time24": "22:11",
+                "runway": false,
+                "timezone": "CDT"
+              }
+            },
+            "date": "2026-10-23T22:11:00.000"
+          },
+          "arrival": {
+            "iata": "PHX",
+            "city": "Phoenix",
+            "name": "Phoenix Sky Harbor International Airport",
+            "gate": "F3",
+            "terminal": "3",
+            "baggage": null,
+            "times": {
+              "scheduled": {
+                "time": "10:59",
+                "ampm": "PM",
+                "time24": "22:59",
+                "timezone": "MST"
+              },
+              "estimatedActual": {
+                "title": "Estimated",
+                "time": "10:59",
+                "ampm": "PM",
+                "time24": "22:59",
+                "runway": false,
+                "timezone": "MST"
+              }
+            },
+            "date": "2026-10-23T22:59:00.000"
+          },
+          "status": "Scheduled",
+          "description": "On time",
+          "delay": {
+            "departure": {
+              "minutes": 0
+            },
+            "arrival": {
+              "minutes": 0
+            }
+          },
+          "sourceAge": "Status Last Updated More Than 3 Hours Ago",
+          "aircraft": "Airbus A321neo",
+          "duration": "2h 48m",
+          "checkedAt": "2026-10-23T20:13:52.107525+00:00",
+          "source": "https://www.flightstats.com/v2/flight-tracker/F9/3283?year=2026&month=10&date=23"
+        }
+      ],
+      "error": null
+    },
+    {
+      "number": "UA 1194",
+      "date": "2026-10-23",
+      "segments": [
+        {
+          "id": 1415788501,
+          "departure": {
+            "iata": "DEN",
+            "city": "Denver",
+            "name": "Denver International Airport",
+            "gate": "B18",
+            "terminal": null,
+            "baggage": null,
+            "times": {
+              "scheduled": {
+                "time": "9:00",
+                "ampm": "PM",
+                "time24": "21:00",
+                "timezone": "MDT"
+              },
+              "estimatedActual": {
+                "title": "Estimated",
+                "time": "9:00",
+                "ampm": "PM",
+                "time24": "21:00",
+                "runway": false,
+                "timezone": "MDT"
+              }
+            },
+            "date": "2026-10-23T21:00:00.000"
+          },
+          "arrival": {
+            "iata": "PHX",
+            "city": "Phoenix",
+            "name": "Phoenix Sky Harbor International Airport",
+            "gate": "E10",
+            "terminal": "3",
+            "baggage": "5",
+            "times": {
+              "scheduled": {
+                "time": "9:59",
+                "ampm": "PM",
+                "time24": "21:59",
+                "timezone": "MST"
+              },
+              "estimatedActual": {
+                "title": "Estimated",
+                "time": "9:59",
+                "ampm": "PM",
+                "time24": "21:59",
+                "runway": false,
+                "timezone": "MST"
+              }
+            },
+            "date": "2026-10-23T21:59:00.000"
+          },
+          "status": "Scheduled",
+          "description": "On time",
+          "delay": {
+            "departure": {
+              "minutes": 0
+            },
+            "arrival": {
+              "minutes": 0
+            }
+          },
+          "sourceAge": "Status Last Updated More Than 3 Hours Ago",
+          "aircraft": "Airbus A321neo",
+          "duration": "1h 59m",
+          "checkedAt": "2026-10-23T20:13:52.107525+00:00",
+          "source": "https://www.flightstats.com/v2/flight-tracker/UA/1194?year=2026&month=10&date=23"
+        },
+        {
+          "id": 1415788495,
+          "departure": {
+            "iata": "PHX",
+            "city": "Phoenix",
+            "name": "Phoenix Sky Harbor International Airport",
+            "gate": "E1",
+            "terminal": "3",
+            "baggage": null,
+            "times": {
+              "scheduled": {
+                "time": "10:30",
+                "ampm": "PM",
+                "time24": "22:30",
+                "timezone": "MST"
+              },
+              "estimatedActual": {
+                "title": "Estimated",
+                "time": "10:30",
+                "ampm": "PM",
+                "time24": "22:30",
+                "runway": false,
+                "timezone": "MST"
+              }
+            },
+            "date": "2026-10-23T22:30:00.000"
+          },
+          "arrival": {
+            "iata": "EWR",
+            "city": "Newark",
+            "name": "Newark Liberty International Airport",
+            "gate": "C134",
+            "terminal": "C",
+            "baggage": "7",
+            "times": {
+              "scheduled": {
+                "time": "6:10",
+                "ampm": "AM",
+                "time24": "06:10",
+                "timezone": "EDT"
+              },
+              "estimatedActual": {
+                "title": "Estimated",
+                "time": "6:10",
+                "ampm": "AM",
+                "time24": "06:10",
+                "runway": false,
+                "timezone": "EDT"
+              }
+            },
+            "date": "2026-10-24T06:10:00.000"
+          },
+          "status": "Scheduled",
+          "description": "On time",
+          "delay": {
+            "departure": {
+              "minutes": 0
+            },
+            "arrival": {
+              "minutes": 0
+            }
+          },
+          "sourceAge": "Status Last Updated 2 Hours and 41 Minutes Ago",
+          "aircraft": "Boeing 737MAX 8 Passenger",
+          "duration": "4h 40m",
+          "checkedAt": "2026-10-23T20:13:52.107525+00:00",
+          "source": "https://www.flightstats.com/v2/flight-tracker/UA/1194?year=2026&month=10&date=23&flightId=1415788495"
+        }
+      ],
+      "error": null
+    },
+    {
+      "number": "F9 1085",
+      "date": "2026-10-23",
+      "segments": [
+        {
+          "id": 1415740222,
+          "departure": {
+            "iata": "MCO",
+            "city": "Orlando",
+            "name": "Orlando International Airport",
+            "gate": "23",
+            "terminal": "A",
+            "baggage": null,
+            "times": {
+              "scheduled": {
+                "time": "6:51",
+                "ampm": "PM",
+                "time24": "18:51",
+                "timezone": "EDT"
+              },
+              "estimatedActual": {
+                "title": "Estimated",
+                "time": "6:51",
+                "ampm": "PM",
+                "time24": "18:51",
+                "runway": false,
+                "timezone": "EDT"
+              }
+            },
+            "date": "2026-10-23T18:51:00.000"
+          },
+          "arrival": {
+            "iata": "PHX",
+            "city": "Phoenix",
+            "name": "Phoenix Sky Harbor International Airport",
+            "gate": "F3",
+            "terminal": "3",
+            "baggage": null,
+            "times": {
+              "scheduled": {
+                "time": "8:42",
+                "ampm": "PM",
+                "time24": "20:42",
+                "timezone": "MST"
+              },
+              "estimatedActual": {
+                "title": "Estimated",
+                "time": "8:42",
+                "ampm": "PM",
+                "time24": "20:42",
+                "runway": false,
+                "timezone": "MST"
+              }
+            },
+            "date": "2026-10-23T20:42:00.000"
+          },
+          "status": "Scheduled",
+          "description": "On time",
+          "delay": {
+            "departure": {
+              "minutes": 0
+            },
+            "arrival": {
+              "minutes": 0
+            }
+          },
+          "sourceAge": "Status Last Updated 1 Hour and 11 Minutes Ago",
+          "aircraft": "Airbus A321neo",
+          "duration": "4h 51m",
+          "checkedAt": "2026-10-23T20:13:52.107525+00:00",
+          "source": "https://www.flightstats.com/v2/flight-tracker/F9/1085?year=2026&month=10&date=23"
+        }
+      ],
+      "error": null
+    }
+  ]
+}
